@@ -1,0 +1,7 @@
+{
+  "name": "Goodneigbour",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,1 +1,2 @@
-# GoodNeigbourApplication
+# UniDineHub
+
